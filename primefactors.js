@@ -15,7 +15,3 @@ var projectEulerThree = function(number){
   }
   return factors;
 };
-console.log(projectEulerThree(600851475143));
-console.log(projectEulerThree(2));
-console.log(projectEulerThree(10));
-console.log(projectEulerThree(239));
